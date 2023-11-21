@@ -91,3 +91,15 @@ form input[type="submit"]:hover{
     font-size: 18px;
     border: 2px solid #08080833;
 }
+
+.decrease, .increase {
+    background-color: #488b05cf;
+    color: #e3e3e3;
+    font-size: 20px;
+    cursor: pointer;
+    padding-inline: 5px;
+    margin-inline: 10px;
+    border-radius: 5px;
+    transition-duration: 0.3s;
+    overflow: hidden;
+}
